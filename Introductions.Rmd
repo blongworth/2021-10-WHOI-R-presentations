@@ -12,10 +12,6 @@ output:
       countIncrementalSlides: false
 ---
 
-# Introductions
-
----
-
 # .right[Brett Longworth]
 
 .pull-left[![Brett Longworth](images/brett.JPG)]
@@ -61,9 +57,9 @@ acoustic releases for a mooring
 
 ---
 
-# .right[Chrisy Hernandez]
+# .right[Chrissy Hernandez]
 
-.pull-left[![Chrisy Hernandez](images/stace-crop.png)]
+.pull-left[![Chrissy Hernandez](images/stace-crop.png)]
 
 .pull-right[
 
@@ -111,6 +107,38 @@ Research Interests: Cybersecurity, static analysis, software reliability
 Fun fact: Met Viggo Mortensen (Lord of the Rings) at a car rental counter at 11 pm on the day I traveled to my WHOI interview
 
 ]
+
+---
+
+# Introductions
+
+Name, Program and Lab, what you'd like to learn or do with this course
+
+.center[Collaborative course notes: https://pad.carpentries.org/2020-06-22-WHOI-R]
+
+---
+
+# Why R, What makes data science reproducible?
+
+---
+
+# Schedule
+
+---
+
+# Getting help
+
+---
+
+# Code of Conduct
+
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Any form or behavior to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behavior in all platforms and events:
+
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
 
 ---
 
