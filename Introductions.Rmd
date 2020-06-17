@@ -1,0 +1,123 @@
+---
+title: "Reproducible data science"
+subtitle: "with git and R"
+institute: "Woods Hole Oceanographic Institution"
+date: "July 2020"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Introductions
+
+---
+
+# .right[Brett Longworth]
+
+.pull-left[![Brett Longworth](images/brett.JPG)]
+
+.pull-right[
+
+Research Associate, Geology and Geophysics
+
+Research Interests: Accelerator Mass Spectrometry, radiocarbon, data mining for method development, links between the marine and terrestrial carbon cycle.
+
+]
+
+---
+
+# .right[Craig McLean]
+
+.pull-left[![Craig McLean](images/stace-crop.png)]
+
+.pull-right[
+
+
+]
+
+---
+
+# .right[Stace Beaulieu]
+
+.pull-left[![Stace Beaulieu](images/stace-crop.png)]
+
+.pull-right[
+
+Senior Research Specialist in Biology
+
+Research Interests: Biological Oceanography, Marine Biodiversity, Ocean Informatics, Deep-Sea Animals!
+
+Fun fact: I love mountain biking, yes even on Cape Cod
+]
+
+.footnote[
+That’s me on the left, setting up
+acoustic releases for a mooring
+]
+
+---
+
+# .right[Chrisy Hernandez]
+
+.pull-left[![Chrisy Hernandez](images/stace-crop.png)]
+
+.pull-right[
+
+]
+
+---
+
+# .right[Arianna Krinos]
+
+.pull-left[![Arianna Krinos](images/arianna.png)]
+
+.pull-right[
+
+
+PhD Student in Biological Oceanography
+
+Research Interests: Biological Oceanography, Phytoplankton, Microbial Ecology, Computational Biology, Modeling, Algorithms, Teaching & Outreach
+
+Fun fact: I have 4 younger siblings & I’ve  been called for homework help by 3/4 in the past month
+
+]
+
+---
+
+# .right[Ciara Willis]
+
+.pull-left[![Ciara Willis](images/stace-crop.png)]
+
+.pull-right[
+
+]
+
+---
+
+# .right[Ryan Govostes]
+
+.pull-left[![Ryan Govostes](images/ryan.jpg)]
+
+.pull-right[
+
+Software Engineer, WHOI
+
+Research Interests: Cybersecurity, static analysis, software reliability
+
+Fun fact: Met Viggo Mortensen (Lord of the Rings) at a car rental counter at 11 pm on the day I traveled to my WHOI interview
+
+]
+
+---
+
+class: center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.org/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
