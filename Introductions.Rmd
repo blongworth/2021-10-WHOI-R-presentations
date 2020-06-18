@@ -69,7 +69,7 @@ acoustic releases for a mooring
 
 # .right[Arianna Krinos]
 
-.pull-left[![Arianna Krinos](images/arianna.png)]
+.pull-left[![Arianna Krinos](images/Arianna.png)]
 
 .pull-right[
 
