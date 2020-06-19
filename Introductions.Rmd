@@ -77,7 +77,7 @@ Fun Fact: I like to knit, and I finished my first-ever sweater in April.
 
 # .right[Arianna Krinos]
 
-.pull-left[![Arianna Krinos](images/arianna.png)]
+.pull-left[![Arianna Krinos](images/Arianna.png)]
 
 .pull-right[
 
