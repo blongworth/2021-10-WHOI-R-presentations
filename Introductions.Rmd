@@ -135,19 +135,38 @@ Name, Program and Lab, what you'd like to learn or do with this course
 # Pre-course survey
 ## R is everywhere!
 
+R has great tools for reports, papers, even books and websites. (and presentations!)
+
+No more cutting and pasting figures or forgetting to update data!
 
 ---
 
 # Why R, What makes data science reproducible?
 
+* Can you reproduce your analysis?
+* How about 5 years later?
+* Can a colleague if you send them the data and method/code?
+* Can you easily add data and regenerate the analysis? Figures? Report or paper?
+
+![Data analysis cycle](https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png)
+
+.footnote[Grolemund and Wickham, [R for Data Science](https://r4ds.had.co.nz/index.html)]
+
 ---
 
-# Schedule
+# Course website
+
+https://blongworth.github.io/2020-06-22-WHOI-R/
 
 ---
 
-# Getting help
+# Getting help and giving feedback
 
+We are here to help! Raise your hand an a helper or instructor will message you in the chat. If it can be solved via chat you and the helper will move to a breakout room to talk through the problem.
+
+We'll also ask for input and feedback often. Use "yes" and "no" in the participants window. Coffee break indicator also welcome, but we've got a lot to cover!
+
+![Zoom feedback tools](images/zoomtools.png)
 ---
 
 # Code of Conduct
@@ -159,6 +178,17 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 * Gracefully accept constructive criticism
 * Focus on what is best for the community
 * Show courtesy and respect towards other community members
+
+---
+
+class: center, middle
+
+![Carpentries logo](https://carpentries.org/assets/img/TheCarpentries.svg)
+
+
+![Software carpentry](images/swc_logo.png)
+
+.footnote[The Carpentries: https://carpentries.org/]
 
 ---
 
