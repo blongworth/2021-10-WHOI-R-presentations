@@ -172,7 +172,7 @@ https://blongworth.github.io/2020-06-22-WHOI-R/
 
 # Getting help and giving feedback
 
-We are here to help! Raise your hand an a helper or instructor will message you in the chat. If it can be solved via chat you and the helper will move to a breakout room to talk through the problem.
+We are here to help! Raise your hand and a helper or instructor will message you in the chat. If it can't be solved via chat you and the helper will move to a breakout room to talk through the problem.
 
 We'll also ask for input and feedback often. Use "yes" and "no" in the participants window. Coffee break indicator also welcome, but we've got a lot to cover!
 
