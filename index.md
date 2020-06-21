@@ -1,7 +1,7 @@
 
 # Slide presentations for 2020-06-22-WHOI-R
 
-## Introduction
+## [Introduction](/Introductions.html)
 
-[slide link](/Introductions.html)
+## [Project Organization](/02-project-intro.html)
 
