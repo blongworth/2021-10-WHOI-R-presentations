@@ -7,6 +7,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      #ratio: '16:9'
 ---
 
 
@@ -17,7 +18,7 @@ output:
 
 ---
 
-# People tend to organize their projects like this:
+## People tend to organize their projects like this:
 
 ![](images/bad_layout.png)
 
@@ -102,7 +103,7 @@ When your project is in its early stages, the initial .R script file usually con
 
 # A project workflow
 
-It's OK to start simple!
+### It's **OK** to start simple!
 
 Projects often start with a single script, notebook, or some commands in the console.
 
@@ -112,6 +113,12 @@ Projects often start with a single script, notebook, or some commands in the con
 * When you start copying and pasting code, make a function
 * When you have a couple of functions, make a script of functions and use `source()` to load them in other files.
 * When you have functions useful outside the project, make a package
+
+---
+
+# Version Control
+
+Version control is another essential piece of project organization and reproducibility. We'll talk much more about this next time!
 
 ---
 
@@ -128,10 +135,3 @@ One of the most powerful and useful aspects of RStudio is its project management
 Breakouts for challenge 1-3 from:
 
 https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html
-
-
----
-
-# Version Control
-
-Version control is another essential piece of project organization and reproducibility. We'll talk much more about this next time!
