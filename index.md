@@ -5,3 +5,5 @@
 
 ## [Project Organization](/02-project-intro.html)
 
+## [Version Control](/git-intro.html)
+
