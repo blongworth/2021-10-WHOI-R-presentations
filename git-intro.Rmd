@@ -55,4 +55,16 @@ Unless multiple users make changes to the same section of the document - a confl
 
 * **git** is the version control system we will be using. 
 
-* **GitHub** is a remote system and website where millions of people store, share and collaborate on copies of their git repositories. This course's, and the Carpentries' websites are stored as repos on github, and automagically turned into websites.
+* **GitHub** is a remote system and website where millions of people store, share, and collaborate on copies of their git repositories. This course's, and the Carpentries' websites (including these slides!) are stored as repos on github, and automagically turned into websites.
+
+---
+## Like other tools for Reproducible Data Science, you don't have to go from zero to the Matrix overnight. 
+
+## Using version control effectively can be:
+
+* Using a local git repo to track progress on a project
+* Creating a **remote** as a backup
+* Adding a **branch** for a new idea
+* Inviting collaborators to work on your repo with you
+* Modifying an open source project by working with your own **fork** 
+* Suggesting a change to an open source project using a **pull request**
