@@ -2,7 +2,7 @@
 title: "Reproducible data science"
 subtitle: "with git and R"
 institute: "Woods Hole Oceanographic Institution"
-date: "July 2020"
+date: "November 2020"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -28,17 +28,18 @@ Research Associate, Geology and Geophysics
 
 ---
 
-# .right[Craig McLean]
+# .right[Arianna Krinos]
 
-.pull-left[![Craig McLean](images/cm_stan_internship.jpg)]
+.pull-left[![Arianna Krinos](images/Arianna.png)]
 
 .pull-right[
 
-4th Year Joint Program Student
 
-**Research Interests:** Metabolism, computational biology, ecology, nutrient stress, and phytoplankton.
+PhD Student in Biological Oceanography
 
-**Fun Fact:** I’m a nerd about contemporary Russian culture.
+**Research Interests:** Biological Oceanography, Phytoplankton, Microbial Ecology, Computational Biology, Modeling, Algorithms, Teaching & Outreach
+
+**Fun fact:** I have 4 younger siblings & I’ve been called for homework help by 3/4 in the past month
 
 ]
 
@@ -60,39 +61,6 @@ Senior Research Specialist in Biology
 .footnote[
 That’s me on the left, setting up
 acoustic releases for a mooring
-]
-
----
-
-# .right[Chrissy Hernandez]
-
-.pull-left[![Chrissy Hernandez](images/chrissy.jpeg)]
-
-.pull-right[
-
-PhD student in Biology
-
-**Research Interests:** larval fish ecology, population dynamics, mathematical ecology, life history evolution, resource management
-
-**Fun Fact:** I like to knit, and I finished my first-ever sweater in April.
-
-]
-
----
-
-# .right[Arianna Krinos]
-
-.pull-left[![Arianna Krinos](images/Arianna.png)]
-
-.pull-right[
-
-
-PhD Student in Biological Oceanography
-
-**Research Interests:** Biological Oceanography, Phytoplankton, Microbial Ecology, Computational Biology, Modeling, Algorithms, Teaching & Outreach
-
-**Fun fact:** I have 4 younger siblings & I’ve  been called for homework help by 3/4 in the past month
-
 ]
 
 ---
@@ -133,7 +101,9 @@ Software Engineer, WHOI
 
 Name, Program and Lab, what you'd like to learn or do with this course
 
-.center[Collaborative course notes: https://pad.carpentries.org/2020-06-22-WHOI-R]
+.center[Collaborative course notes: https://pad.carpentries.org/2020-11-09-WHOI-R]
+
+![R Learning Curve](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/r_rollercoaster.png)
 
 ---
 
@@ -166,7 +136,7 @@ class: inverse, middle, center
 
 # Course website
 
-https://blongworth.github.io/2020-06-22-WHOI-R/
+https://blongworth.github.io/2020-11-09-WHOI-R/
 
 ---
 
