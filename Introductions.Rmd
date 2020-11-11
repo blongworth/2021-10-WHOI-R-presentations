@@ -98,6 +98,22 @@ Software Engineer, Information Systems
 
 ---
 
+# .right[Leah Crowe]
+
+.pull-left[![Leah Crowe](images/leah.jpg)]
+
+.pull-right[
+
+Contractor at  NOAA/NEFSC/Protected Species Branch
+
+**Research Interests:** Photo-ID, satellite telemetry, whales, and sea turtles
+
+**Fun fact:** I was planning to be in New Zealand by now!
+
+]
+
+---
+
 # .right[Ciara Willis]
 
 .pull-left[![Ciara Willis](images/ciara.jpg)]
