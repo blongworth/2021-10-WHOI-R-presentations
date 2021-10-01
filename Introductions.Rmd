@@ -45,25 +45,6 @@ PhD Student in Biological Oceanography
 
 ---
 
-# .right[Stace Beaulieu]
-
-.pull-left[![Stace Beaulieu](images/stace-crop.png)]
-
-.pull-right[
-
-Senior Research Specialist in Biology
-
-**Research Interests:** Biological Oceanography, Marine Biodiversity, Ocean Informatics, Deep-Sea Animals!
-
-**Fun fact:** I love mountain biking, yes even on Cape Cod
-]
-
-.footnote[
-That’s me on the left, setting up
-acoustic releases for a mooring
-]
-
----
 
 # .right[Maggi Mars Brisbin]
 
@@ -76,23 +57,6 @@ Postdoctoral Scholar, Biology and Marine Chemistry & Geochemistry
 **Research Interests:** Biological oceanography, microbiology, phytoplankton physiology, plankton ecology, data science with R and Python
 
 **Fun fact:** I’ve lived in Okinawa, Japan for the last 6.5 years.
-
-]
-
----
-
-# .right[Maria Pachiadaki]
-
-.pull-left[![Maria Pachiadaki](images/maria.jpg)]
-
-.pull-right[
-
-Assistant Scientist, Biology
-
-**Research Interests:** marine microbiology, functional genomics, bioinformatics, big data
-
-
-**Fun fact:** I have crossed 75th parallel north.
 
 ]
 
@@ -115,67 +79,91 @@ Software Engineer at WHOI
 ]
 
 ---
-# .right[Ryan Govostes]
+# .right[Stace Beaulieu]
 
-.pull-left[![Ryan Govostes](images/ryan.jpg)]
+.pull-left[![Stace Beaulieu](images/stace-crop.png)]
 
 .pull-right[
 
-Software Engineer, Information Systems
+Senior Research Specialist in Biology
 
-**Research Interests:** Cybersecurity, static analysis, software reliability
+**Research Interests:** Biological Oceanography, Marine Biodiversity, Ocean Informatics, Deep-Sea Animals!
 
-**Fun fact:** Met Viggo Mortensen (Lord of the Rings) at a car rental counter at 11 pm on the day I traveled to my WHOI interview
+**Fun fact:** I love mountain biking, yes even on Cape Cod
+]
 
+.footnote[
+That’s me on the left, setting up
+acoustic releases for a mooring
 ]
 
 ---
+# .right[Cory Berger]
 
-# .right[Leah Crowe]
-
-.pull-left[![Leah Crowe](images/leah.png)]
+.pull-left[![Cory Berger](images/cory.png)]
 
 .pull-right[
 
-Contractor at  NOAA/NEFSC/Protected Species Branch
+PhD Candidate in Biological Oceanography
 
-**Research Interests:** Photo-ID, satellite telemetry, whales, and sea turtles
+**Research Interests:** Evolution, phylogenetics, invertebrate physiology, -omics, circadian rhythms. 
 
-**Fun fact:** I was planning to be in New Zealand by now!
-
+**Fun fact:** I performed in Superbowl 50
 ]
 
 ---
+# .right[Sarah Glancy]
 
-# .right[Ciara Willis]
-
-.pull-left[![Ciara Willis](images/ciara.jpg)]
+.pull-left[![](images/)]
 
 .pull-right[
 
-PhD Student in Biological Oceanography
 
-**Research Interests:** Marine connectivity (movement ecology, larval dispersal, trophic interactions), fisheries governance, statistics
+**Research Interests:**
 
-**Fun fact:** I collect plush sea creatures
-
+**Fun fact:**
 ]
 
 ---
+# .right[Kali Horn]
 
-# .right[Andy Beet]
-
-.pull-left[![Andy Beet](https://ca.slack-edge.com/T01164VCFNJ-U01DPMCJFM0-822577251f60-512)]
+.pull-left[![Kali Horn](images/kali.png)]
 
 .pull-right[
 
-Research Scientist in Ecosystem Dynamics & Assessment Branch at NOAA Fisheries
+Research Assistant Biology 
 
-**Research Interests:** Ecosystem based fishery management, multispecies fisheries models, data science
+**Research Interests:** HABS (harmful algal blooms), population dynamics, phytoplankton ecology and physiology, Marine outreach and education!
 
-
+**Fun fact:** I hiked the wonderland trail this summer!
 ]
 
+---
+# .right[Kate Morkeski]
+
+.pull-left[![](images/)]
+
+.pull-right[
+
+
+**Research Interests:**
+
+**Fun fact:**
+]
+
+---
+# .right[Jane Weinstock]
+
+.pull-left[![Jane Weinstock](images/jane.png)]
+
+.pull-right[
+
+PhD candidate in Biological Oceanography
+
+**Research Interests:** Marine ecology, larval dispersal, invertebrate phenology, population connectivity
+
+**Fun fact:** I just recently accomplished a 2-year mission to get my first orchid to flower again
+]
 ---
 # Introductions – Your turn!
 
