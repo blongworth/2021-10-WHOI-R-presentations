@@ -2,21 +2,63 @@
 title: "Reproducible data science"
 subtitle: "with R and git"
 institute: "Woods Hole Oceanographic Institution"
-date: "November 2020"
+date: "October 2021"
 output:
   xaringan::moon_reader:
+    css: xaringan-themer.css
     lib_dir: libs
     nature:
+      ratio: '16:9'
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
 
-# .right[Brett Longworth]
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, fig.showtext = TRUE)
+
+# Libraries
+library(xaringanthemer)
+
+# Colors
+dark_blue <- "#041e42"
+light_blue <- "#00a9e0"
+medium_blue <- "0069b1"
+aqua_blue <- "#00b7bd"
+cool_gray_11 <- "#53565a"
+cool_gray_4 <- "#bbbcbc"
+background <- "#e6e7e8"
+
+style_mono_light(
+  # colors
+  base_color = dark_blue,
+  white_color = lighten_color("#d9d9d6", .5),
+  # primary_color = background,
+  # secondary_color = dark_blue,
+  
+  # fonts
+  header_font_google = google_font("Montserrat", "800"),
+  text_font_google = google_font("Red Hat Display", "500")
+)
+style_extra_css(
+  css = list(
+    ".title-slide" = list(
+      "background-image" = "url(images/whoi_seal_title_bkgnd.jpg)",
+      "background-size" = "cover"
+    )
+  ),
+  append = TRUE,
+  heading = "Extra CSS"
+)
+
+```
 
 .pull-left[![Brett Longworth](images/brett.JPG)]
 
 .pull-right[
+
+# .right[Brett Longworth]
 
 Research Associate, Geology and Geophysics
 
@@ -28,12 +70,12 @@ Research Associate, Geology and Geophysics
 
 ---
 
-# .right[Arianna Krinos]
 
 .pull-left[![Arianna Krinos](images/Arianna.png)]
 
 .pull-right[
 
+# .right[Arianna Krinos]
 
 PhD Student in Biological Oceanography
 
@@ -45,12 +87,11 @@ PhD Student in Biological Oceanography
 
 ---
 
-
-# .right[Maggi Mars Brisbin]
-
 .pull-left[![Maggi Mars Brisbin](images/maggi.jpg)]
 
 .pull-right[
+
+# .right[Maggi Mars Brisbin]
 
 Postdoctoral Scholar, Biology and Marine Chemistry & Geochemistry
 
@@ -79,11 +120,11 @@ Software Engineer at WHOI
 ]
 
 ---
-# .right[Stace Beaulieu]
 
 .pull-left[![Stace Beaulieu](images/stace-crop.png)]
 
 .pull-right[
+# .right[Stace Beaulieu]
 
 Senior Research Specialist in Biology
 
@@ -114,23 +155,24 @@ PhD Candidate in Biological Oceanography
 ---
 # .right[Sarah Glancy]
 
-.pull-left[![](images/)]
+.pull-left[![](images/sarah.png)]
 
 .pull-right[
 
+Research Technician, Biology Dept. 
 
-**Research Interests:**
+**Research Interests:** Zooplankton population dynamics and fisheries trophic interactions. 
 
-**Fun fact:**
+**Fun fact:** I coach high school and play indoor and beach volleyball
 ]
 
 ---
-# .right[Kali Horn]
 
 .pull-left[![Kali Horn](images/kali.png)]
 
 .pull-right[
 
+# .right[Kali Horn]
 Research Assistant Biology 
 
 **Research Interests:** HABS (harmful algal blooms), population dynamics, phytoplankton ecology and physiology, Marine outreach and education!
@@ -139,16 +181,17 @@ Research Assistant Biology
 ]
 
 ---
-# .right[Kate Morkeski]
 
-.pull-left[![](images/)]
+.pull-left[![](images/kate.png)]
 
 .pull-right[
+# .right[Kate Morkeski]
 
+Research Assistant, Marine Chemistry and Geochemistry
 
-**Research Interests:**
+**Research Interests:** Ecosystems, biogeochemistry, carbonate chemistry, data science
 
-**Fun fact:**
+**Fun fact:** I'm a new user of R and Git and so happy that they are in my life!
 ]
 
 ---
@@ -164,12 +207,15 @@ PhD candidate in Biological Oceanography
 
 **Fun fact:** I just recently accomplished a 2-year mission to get my first orchid to flower again
 ]
+
 ---
 # Introductions – Your turn!
 
 Name, 1-5 words about research, what you'd like to learn in this course, and what project(s) you'd like to do with R.
 
 .center[Collaborative course notes: https://pad.carpentries.org/2020-11-09-WHOI-R]
+
+--- 
 
 ![R Learning Curve](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/r_rollercoaster.png)
 
@@ -204,7 +250,7 @@ class: inverse, middle, center
 
 # Course website
 
-https://blongworth.github.io/2020-11-09-WHOI-R/
+https://blongworth.github.io/2021-10-WHOI-R/
 
 ---
 
