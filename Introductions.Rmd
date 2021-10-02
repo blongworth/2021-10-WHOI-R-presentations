@@ -131,12 +131,12 @@ Senior Research Specialist in Biology
 **Research Interests:** Biological Oceanography, Marine Biodiversity, Ocean Informatics, Deep-Sea Animals!
 
 **Fun fact:** I love mountain biking, yes even on Cape Cod
-]
-
 .footnote[
 That’s me on the left, setting up
 acoustic releases for a mooring
 ]
+]
+
 
 ---
 # .right[Cory Berger]
@@ -213,12 +213,14 @@ PhD candidate in Biological Oceanography
 
 Name, 1-5 words about research, what you'd like to learn in this course, and what project(s) you'd like to do with R.
 
-.center[Collaborative course notes: https://pad.carpentries.org/2020-11-09-WHOI-R]
+.center[Collaborative course notes: https://pad.carpentries.org/2020-11-09-WHOI-R
+]
 
 --- 
 
-![R Learning Curve](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/r_rollercoaster.png)
+---
 
+![Learning Curve](https://raw.githubusercontent.com/allisonhorst/stats-illustrations/master/rstats-artwork/r_rollercoaster.png)
 ---
 
 # Pre-course survey
@@ -240,11 +242,6 @@ No more cutting and pasting figures or forgetting to update data!
 ![Data analysis cycle](https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png)
 
 .footnote[Grolemund and Wickham, [R for Data Science](https://r4ds.had.co.nz/index.html)]
-
----
-class: inverse, middle, center
-
-<iframe width="95%" height="95%" src="https://www.youtube.com/embed/s3JldKoA0zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -295,3 +292,7 @@ Slides created via the R package [**xaringan**](https://github.com/yihui/xaringa
 The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.org/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
 
 ---
+class: inverse, middle, center
+
+<iframe width="95%" height="95%" src="https://www.youtube.com/embed/s3JldKoA0zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
